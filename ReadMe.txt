@@ -1,7 +1,7 @@
 Buenas Esto es lo que he podido hacer en React con Node  Express mongoose y mongodb.
 
 
-Para ejecutar solo hay que estar en la carpeta root y ejecutar npm start ejecuta node y la base de datos y abre automaticamente la aplicacion.
+Para ejecutar hay que en la carpeta GameOfDrones ejecutar en al terminal npm install -S create-react-app luego dirigirse a la carpeta root y ejecutar npm start ejecuta node y la base de datos y abre automaticamente la aplicacion React.
 
 Lamentablemente debido a que necesite mucho tutorial para poder entender y hacer lo mejor posible la aplicacion los estilos no tuve tiempo de completarlos, 
 la conexion a la base de datos esta funcionando y salva datos pero las sentencias de mongoose no me filtran correctamente los datos.
